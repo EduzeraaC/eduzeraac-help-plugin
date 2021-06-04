@@ -1,0 +1,5 @@
+name: EAjuda
+main: com.github.eduzeraac.HelpPlugin
+version: 1.0-SNAPSHOT
+commands:
+  ajuda:
